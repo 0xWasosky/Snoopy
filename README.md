@@ -6,7 +6,7 @@ Snoopy is a basic packet sniffer in python!
 
 To run Snoopy, ensure that Python (version 3.x) is installed on your machine. You can execute the script using the following command, which will sniff traffic on ports 80 and 23:
 
-```sudo python3.x main.py 80:22```
+`sudo python3.x main.py 80:22`
 
 ## Conclusion 
 
